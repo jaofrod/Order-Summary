@@ -6,7 +6,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/devjaof/Order-Summary
+- Live Site URL: https://devjaof.github.io/Order-Summary/
 
 
 ### Built with
