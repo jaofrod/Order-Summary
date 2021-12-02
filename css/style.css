@@ -31,11 +31,14 @@ body {
 
 main {
     width: 80vw;
-    height: 70vh;
+    height: 90%vh;
     max-width: 460px;
+
     background-color: white;
+
     border-radius: 20px;
     border: 1px solid transparent;
+    border-style: none;
 }
 
 .image-src {
@@ -43,6 +46,8 @@ main {
     height: 30%;
     border-radius: 20px 20px 0px 0px;
 }
+
+/* textos */
 
 .texto {
     display: flex;
@@ -53,8 +58,12 @@ main {
 
 .texto-titulo {
     font-weight: 700;
-    font-size: 1.5em;
+    font-size: 2em;
     margin-bottom: 15px;
+}
+
+.texto_corpo {
+    font-size: 2em;
 }
 
 .plano {
@@ -91,13 +100,13 @@ main {
     color: #FFFFFF;
 
     padding: 20px;
-    border-radius: 20px;
 
     justify-self: center;
     margin-left: 20px;
     margin-right: 20px;
 
     box-shadow: 0px 10px 10px hsl(223, 47%, 23%);
+    border-radius: 20px;
 
     cursor: pointer;
 }
@@ -123,6 +132,7 @@ main {
 
 .cancel:hover {
     color:black;
+    transition-duration: .1s;
 }
 
 .final-buttons {
