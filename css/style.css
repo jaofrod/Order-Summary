@@ -32,7 +32,8 @@ body {
 main {
     width: 80vw;
     height: 70vh;
-    background-color:white;
+    max-width: 460px;
+    background-color: white;
     border-radius: 20px;
     border: 1px solid transparent;
 }
@@ -101,10 +102,9 @@ main {
     cursor: pointer;
 }
 
-.proceed:active {
-    background-color: hsl(225, 100%, 94%);
-    color:hsl(223, 47%, 23%);
-    transition: .1s;
+.proceed:hover {
+    background-color:  hsl(245, 75%, 58%);
+    transition-duration: .1s;
 }
 
 .cancel {
@@ -119,6 +119,10 @@ main {
     margin-right: 20px;
 
     cursor: pointer;
+}
+
+.cancel:hover {
+    color:black;
 }
 
 .final-buttons {
