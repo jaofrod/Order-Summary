@@ -20,10 +20,6 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -40,7 +36,8 @@ Users should be able to:
 
 ## What I Learned
 
-
+  -How to properly set a nice background
+  -Responsive properties
 
 ## Author
 
